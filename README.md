@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yusufali29" alt="yusufali29" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/yusufaliraihan" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/yusufaliraihan?logo=twitter&style=for-the-badge" alt="https://x.com/yusufaliraihan" /></a> </p>
+<p align="left"> <a href="[https://twitter.com/https://x.com/yusufaliraihan](https://x.com/home)" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/yusufaliraihan?logo=twitter&style=for-the-badge" alt="https://x.com/yusufaliraihan" /></a> </p>
 
 - 🔭 I’m currently working on **Personal Portfolio Website**
 
