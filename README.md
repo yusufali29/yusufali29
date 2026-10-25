@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Yusuf Ali</h1>
+<a href="https://ibb.co.com/0SXrTtP"><img src="https://i.ibb.co.com/qfnpK5b/Yusuf-Ali-Developer-Portfolio-Banner-1-upscaled.png" alt="Yusuf-Ali-Developer-Portfolio-Banner-1-upscaled" border="0"></a>
 
 <h3 align="center">Web Developer | HTML, CSS, JavaScript & PHP | Building Responsive Websites</h3>
 
