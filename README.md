@@ -3,10 +3,17 @@
 ### Web Developer | Building Clean, Responsive & User-Friendly Websites
 
 
+
 <p align="center">
-  <a href="https://ibb.co.com/r2jN7v45"><img src="https://i.ibb.co.com/nMGtgRzQ/Yusuf-Ali-Developer-Portfolio-Banner-1-upscaled.png" alt="Yusuf-Ali-Developer-Portfolio-Banner-1-upscaled" border="0">
+  <a href="https://ibb.co.com/r2jN7v45">
+    <img
+      src="https://i.ibb.co.com/nMGtgRzQ/Yusuf-Ali-Developer-Portfolio-Banner-1-upscaled.png"
+      alt="Yusuf Ali - Web Developer Portfolio Banner"
+      width="100%"
+    />
   </a>
 </p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yusufali29/">
