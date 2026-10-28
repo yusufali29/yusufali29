@@ -5,15 +5,8 @@
 
 
 <p align="center">
-  <a href="https://ibb.co.com/r2jN7v45">
-    <img
-      src="https://i.ibb.co.com/nMGtgRzQ/Yusuf-Ali-Developer-Portfolio-Banner-1-upscaled.png"
-      alt="Yusuf Ali - Web Developer Portfolio Banner"
-      width="100%"
-    />
-  </a>
+  <img src="yusuf-ali-web-developer-github-profile-banner.png" alt="Yusuf Ali - Web Developer GitHub Profile Banner" width="100%">
 </p>
-
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yusufali29/">
