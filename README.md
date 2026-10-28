@@ -4,13 +4,13 @@
 
 
 
+
 <p align="center">
-  <img
-    src="https://i.ibb.co.com/230P1wg2/yusuf-ali-web-developer-github-profile-banner.png"
-    alt="Yusuf Ali - Web Developer GitHub Profile Banner"
-    width="100%"
-  />
+  <img src="./yusuf-ali-web-developer-github-profile-banner.png"
+       alt="Yusuf Ali - Web Developer GitHub Profile Banner"
+       width="100%">
 </p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yusufali29/">
