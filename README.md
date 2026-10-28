@@ -4,8 +4,6 @@
 
 
 
-
-
 <p align="center">
   <img src="./yusuf-ali-web-developer-github-profile-banner.png"
        alt="Yusuf Ali - Web Developer GitHub Profile Banner"
