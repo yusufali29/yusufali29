@@ -1,6 +1,3 @@
-# Hi there, I'm Yusuf Ali 👋
-
-### 💻 Web Developer | Building Clean, Responsive & User-Friendly Websites
 
 <p align="center">
   <img src="./yusuf-ali-web-developer-github-profile-banner.png"
