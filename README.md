@@ -1,16 +1,12 @@
 # Hi there, I'm Yusuf Ali 👋
 
-### Web Developer | Building Clean, Responsive & User-Friendly Websites
-
-
+### 💻 Web Developer | Building Clean, Responsive & User-Friendly Websites
 
 <p align="center">
   <img src="./yusuf-ali-web-developer-github-profile-banner.png"
        alt="Yusuf Ali - Web Developer GitHub Profile Banner"
        width="100%">
 </p>
-
-
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yusufali29/">
@@ -27,16 +23,16 @@
 
 ---
 
-## 👨‍💻 A Little About Me
+## 👨‍💻 About Me
 
-Hi! I'm Yusuf, a web developer who enjoys turning ideas into clean, attractive, and responsive websites.
+Hi! I'm Yusuf Ali, a passionate Web Developer who enjoys turning ideas into clean, attractive, and responsive websites.
 
-I like exploring new design ideas, learning how websites work behind the scenes, and improving my skills by building real projects. For me, every project is a chance to learn something new and create a better experience for the people who use it.
+I enjoy exploring modern web design, learning new technologies, and improving my development skills by building real-world projects.
 
 - 💻 I build websites using HTML, CSS, and JavaScript.
-- 🌱 I'm continuing to learn PHP and improve my backend development skills.
-- 🎨 I enjoy working on responsive layouts and clean website designs.
-- 🚀 I like building projects for different areas, from interior design to business websites.
+- 🌱 I'm learning PHP and improving my backend development skills.
+- 🎨 I enjoy creating responsive layouts and clean website designs.
+- 🚀 I love building websites for different industries and businesses.
 - 🤝 I'm open to collaborating on interesting web development projects.
 - 📫 Email: **yusuf29ali@gmail.com**
 
@@ -44,32 +40,31 @@ My goal is to keep learning, keep building, and become a better developer with e
 
 ---
 
-## 🚀 Projects I've Built
+## 🚀 My Projects
 
-Here are a few projects I've been working on. Each one has helped me practice my skills and explore a different type of website.
+Here are some of my recent web development projects.
 
 ### 🍽️ Kitchen Interior
 
-A website focused on modern kitchen interiors, elegant designs, and creative layouts. Built to present interior design ideas through a clean and attractive interface.
-
+A modern kitchen interior website featuring elegant designs, creative layouts, and a clean, user-friendly interface.
 
 **[🌐 View Live Website](https://yusufali29.github.io/Kitchen-Interior/)** · **[📂 View Repository](https://github.com/yusufali29/Kitchen-Interior)**
 
 ### 🚗 Car Point
 
-A car buying and selling website concept designed to give visitors a simple way to explore vehicles and browse a car marketplace interface.
+A car buying and selling website concept designed to help visitors explore vehicles through a simple and attractive marketplace interface.
 
 **[🌐 View Live Website](https://yusufali29.github.io/car-point/)** · **[📂 View Repository](https://github.com/yusufali29/car-point)**
 
 ### 🌱 Agriculture & Safe Food
 
-A website focused on agriculture and safe food, with a goal of presenting relevant information through an accessible and user-friendly design.
+An agriculture and safe food website focused on presenting useful information through an accessible and user-friendly design.
 
 **[🌐 View Live Website](https://yusufali29.github.io/Agriculture-and-safe-food/)** · **[📂 View Repository](https://github.com/yusufali29/Agriculture-and-safe-food)**
 
 ### 🏢 Digital Agency
 
-A digital agency website project focused on presenting services and creating a professional online presence for a business.
+A professional digital agency website project designed to showcase business services and create a strong online presence.
 
 **[🌐 View Live Website](https://yusufali29.github.io/digital-agency-website/)** · **[📂 View Repository](https://github.com/yusufali29/digital-agency-website)**
 
@@ -77,7 +72,7 @@ A digital agency website project focused on presenting services and creating a p
 
 ## 🛠️ Technologies & Tools
 
-These are the technologies and tools I'm learning and using across my web development projects.
+These are the technologies and tools I'm learning and using in my web development projects.
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
@@ -111,33 +106,27 @@ These are the technologies and tools I'm learning and using across my web develo
 
 ---
 
+## 📊 GitHub Activity
 
-## 📊 My GitHub Activity
+### 🔥 GitHub Contribution Streak
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=yusufali29&show_icons=true&theme=github_dark&hide_border=true"
-    alt="Yusuf Ali's GitHub Stats"
-  />
+  <img src="https://streak-stats.demolab.com?user=yusufali29&theme=tokyonight&hide_border=true"
+       alt="Yusuf Ali's GitHub Contribution Streak">
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufali29&layout=compact&theme=github_dark&hide_border=true"
-    alt="Most Used Languages"
-  />
-</p>
-
+### 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yusufali29&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufali29&layout=compact&theme=tokyonight&hide_border=true"
+       alt="Yusuf Ali's Most Used Languages">
 </p>
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always happy to connect with other developers, exchange ideas, and learn from people who enjoy building things for the web.
+I'm always happy to connect with other developers, exchange ideas, share knowledge, and collaborate on exciting web development projects.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/yusufali29/">
@@ -157,9 +146,9 @@ I'm always happy to connect with other developers, exchange ideas, and learn fro
 ---
 
 <p align="center">
-  Thanks for stopping by! 😊
+  Thanks for visiting my GitHub profile! 😊
   <br>
-  I'm learning, building, and getting better one project at a time.
+  I'm learning, building, and improving one project at a time.
   <br><br>
   <strong>Made with curiosity and a love for web development. ❤️</strong>
 </p>
