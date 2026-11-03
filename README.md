@@ -121,16 +121,22 @@ HTML | CSS | JavaScript
 
 ---
 
+
+---
+
 ## 📊 My GitHub Activity
 
 <p align="center">
-  <img width="49%"
-       src="https://github-readme-stats.vercel.app/api?username=yusufali29&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
-       alt="Yusuf Ali's GitHub Stats">
-  <img width="49%"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufali29&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
-       alt="Most Used Languages">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yusufali29&theme=tokyonight" width="100%" alt="GitHub Profile Summary">
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yusufali29&theme=tokyonight" width="49%" alt="Most Used Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=yusufali29&show_icons=true&theme=tokyonight" width="49%" alt="GitHub Stats">
+</p>
+
+
+
 
 <p align="center">
   <img width="80%"
