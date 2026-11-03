@@ -1,5 +1,9 @@
+### Web Developer | Building Clean, Responsive & User-Friendly Websites
+
 <p align="center">
-  <img src="./yusuf-ali-web-developer-github-profile-banner.png" alt="Yusuf Ali - Web Developer GitHub Profile Banner" width="100%">
+  <img src="./yusuf-ali-web-developer-github-profile-banner.png"
+       alt="Yusuf Ali - Web Developer GitHub Profile Banner"
+       width="100%">
 </p>
 
 <p align="center">
@@ -64,7 +68,6 @@ A professional digital agency website concept showcasing business services with 
 - 🌐 [View Live Website](https://yusufali29.github.io/digital-agency-website/)
 - 📂 [View Repository](https://github.com/yusufali29/digital-agency-website)
 
-
 ### 📊 Accounting and Finance Management
 
 A responsive Accounting and Finance Management website designed to present financial information and management features through a clean, modern, and user-friendly interface.
@@ -76,9 +79,11 @@ A responsive Accounting and Finance Management website designed to present finan
 - User-friendly navigation
 
 **Technologies Used:**
+
 HTML | CSS | JavaScript
 
-**[🌐 View Live Website](https://yusufali29.github.io/Accounting-and-Finance-Management/)** · **[📂 View Repository](https://github.com/yusufali29/Accounting-and-Finance-Management)**
+- 🌐 [View Live Website](https://yusufali29.github.io/Accounting-and-Finance-Management/)
+- 📂 [View Repository](https://github.com/yusufali29/Accounting-and-Finance-Management)
 
 ---
 
@@ -119,15 +124,18 @@ HTML | CSS | JavaScript
 ## 📊 My GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yusufali29&show_icons=true&theme=tokyonight&hide_border=true" alt="Yusuf Ali's GitHub Stats">
+  <img width="49%"
+       src="https://github-readme-stats.vercel.app/api?username=yusufali29&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
+       alt="Yusuf Ali's GitHub Stats">
+  <img width="49%"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufali29&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
+       alt="Most Used Languages">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufali29&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=yusufali29&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak">
+  <img width="80%"
+       src="https://streak-stats.demolab.com?user=yusufali29&theme=tokyonight&hide_border=true"
+       alt="GitHub Contribution Streak">
 </p>
 
 ---
@@ -136,7 +144,7 @@ HTML | CSS | JavaScript
 
 I'm always happy to connect with fellow developers, exchange ideas, and collaborate on creative web projects.
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/yusufali29/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
