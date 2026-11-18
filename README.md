@@ -68,6 +68,26 @@ A professional digital agency website concept showcasing business services with 
 - 🌐 [View Live Website](https://yusufali29.github.io/digital-agency-website/)
 - 📂 [View Repository](https://github.com/yusufali29/digital-agency-website)
 
+
+### 🏥 Senior Care Website
+
+A modern and responsive senior care website designed to provide information about elderly care services, support, and healthcare solutions through a clean and user-friendly interface.
+
+**Features:**
+- Clean and modern user interface
+- Fully responsive website design
+- Senior care and support service sections
+- User-friendly navigation
+- Professional website layout
+
+**Technologies Used:**
+
+HTML | CSS | JavaScript
+
+- 🌐 [View Live Website](https://yusufali29.github.io/senior-care-website/)
+- 📂 [View Repository](https://github.com/yusufali29/senior-care-website)
+
+
 ### 📊 Accounting and Finance Management
 
 A responsive Accounting and Finance Management website designed to present financial information and management features through a clean, modern, and user-friendly interface.
